@@ -28,7 +28,6 @@
 
 h2{
     text-align: center;
-    color: #fff;
 }
 
 section{
@@ -157,7 +156,7 @@ nav ul li a:hover{
 @media(max-width:768px){
 
     img.menu {
-        width: 60%;
+        width: 80%;
         height: auto;
         left: 0px;
         right: 0px;
@@ -165,7 +164,7 @@ nav ul li a:hover{
       }
       
       img.review {
-        width: 60%;
+        width: 80%;
         height: auto;
         left: 0px;
         right: 0px;
