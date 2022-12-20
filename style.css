@@ -156,6 +156,22 @@ nav ul li a:hover{
 
 @media(max-width:768px){
 
+    img.menu {
+        width: 60%;
+        height: auto;
+        left: 0px;
+        right: 0px;
+        padding-bottom: 50px;
+      }
+      
+      img.review {
+        width: 60%;
+        height: auto;
+        left: 0px;
+        right: 0px;
+        padding-top: 20px;
+      }
+
 
     nav.navbar{
         float: center;
@@ -219,6 +235,7 @@ nav ul li a:hover{
     .content h1 {
         font-size: 80px;
     }
+
 }
 
 
