@@ -25,7 +25,7 @@
 }
 
 .intro{
-    padding-top: 85px;
+    padding-top: 35px;
 }
 
 h2{
@@ -37,7 +37,7 @@ h2{
 
 h4{
     padding-bottom: 15px;
-    font-size: 25px;
+    font-size: 20px;
     font-family: Spartan,sans-serif;
     font-weight: 400;
     text-transform: uppercase;
@@ -50,7 +50,7 @@ p{
     line-height: 28px;
     opacity: .8;
     padding-top: 70px;
-    padding-bottom:100px;
+    padding-bottom:55px;
 }
 
 a{
@@ -116,6 +116,14 @@ img.review {
     left: 0px;
     right: 0px;
     padding-top: 20px;
+}
+
+img.hair{
+    
+    border-color: #fff;
+    width: 35%;
+    height: auto;
+    border-width: 2px;
 }
 
 .booking-btn input{
@@ -228,6 +236,13 @@ nav ul li a:hover{
         left: 0px;
         right: 0px;
         padding-top: 20px;
+    }
+
+    img.hair{
+    
+        border: 3px solid #fff;
+        width: 50%;
+        height: auto;
     }
 
 
