@@ -118,6 +118,16 @@ img.review {
     padding-top: 20px;
 }
 
+.booking-btn input{
+    background-color: #ff6b6b;
+    border-color: #fff;
+    border-width: 2px;
+    border-radius: 18px;
+    padding: 10px;
+    color: #fff;
+    font-size: 16px;
+}
+
   
 .feature a {
     text-decoration: none;
