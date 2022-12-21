@@ -102,6 +102,45 @@ nav ul li a{
     font-size: 17px;
 }
 
+label {
+    width: 100px;
+    display: inline-block;
+    text-align: right;
+    margin-right: 8px;
+    color: #fff;
+    font-size: 20px;
+    text-align: left;
+  }
+
+  
+form div {
+    margin-bottom: 8px;
+}
+  
+input, select, textarea {
+    width: 350px;
+    padding: 10px;
+    margin: 8px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+  
+input[type=number], input[type=date] {
+    width: auto;
+}
+
+button {
+    width: 100px;
+    background-color: transparent;
+    color: white;
+    padding: 15px;
+    margin: 30px 0;
+    border-color: white;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
 img.menu {
     width: 45%;
     height: auto;
