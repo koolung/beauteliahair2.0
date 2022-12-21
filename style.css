@@ -127,7 +127,7 @@ input, select, textarea {
 }
   
 input[type=number], input[type=date] {
-    width: auto;
+    width: 350px;
 }
 
 button {
@@ -262,6 +262,18 @@ nav ul li a:hover{
 }
 
 @media(max-width:768px){
+
+    input, select, textarea {
+        width: 30%;
+    }
+      
+    input[type=number], input[type=date] {
+        width: 30%;
+    }
+
+    #details{
+        width: 65%;
+    }
 
     img.menu {
         width: 100%;
