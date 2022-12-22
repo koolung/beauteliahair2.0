@@ -1,6 +1,5 @@
 *{
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     text-align: center;
@@ -26,6 +25,11 @@
 
 .intro{
     padding-top: 35px;
+}
+
+section.about{
+    padding-top: 150px;
+    padding-bottom: 0;
 }
 
 h2{
@@ -262,6 +266,11 @@ nav ul li a:hover{
 }
 
 @media(max-width:768px){
+
+
+    section.about{
+        padding-top: 48%;
+    }
 
     input, select, textarea {
         width: 30%;
